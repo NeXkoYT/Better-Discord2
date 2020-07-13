@@ -79,7 +79,6 @@ Simplified-Green made by den -> https://github.com/denBot/Simplistic-CSS/blob/ma
   margin-left: -5px;
   position: absolute;
   display: block;
-  background: linear-gradient(to top, red, violet, indigo, blue, green, yellow, orange, red);
   border: 1px solid var(--Main-Colour);
   border-radius: 5px;
   content: var(--ChangelogSize) var(--Theme-Variant)", "var(--Update-Text);
